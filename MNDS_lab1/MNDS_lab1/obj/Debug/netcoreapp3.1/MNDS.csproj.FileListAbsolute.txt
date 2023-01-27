@@ -1,0 +1,14 @@
+D:\MNDS\MNDS\bin\Debug\netcoreapp3.1\MNDS.exe
+D:\MNDS\MNDS\bin\Debug\netcoreapp3.1\MNDS.deps.json
+D:\MNDS\MNDS\bin\Debug\netcoreapp3.1\MNDS.runtimeconfig.json
+D:\MNDS\MNDS\bin\Debug\netcoreapp3.1\MNDS.runtimeconfig.dev.json
+D:\MNDS\MNDS\bin\Debug\netcoreapp3.1\MNDS.dll
+D:\MNDS\MNDS\bin\Debug\netcoreapp3.1\MNDS.pdb
+D:\MNDS\MNDS\obj\Debug\netcoreapp3.1\MNDS.csproj.AssemblyReference.cache
+D:\MNDS\MNDS\obj\Debug\netcoreapp3.1\MNDS.GeneratedMSBuildEditorConfig.editorconfig
+D:\MNDS\MNDS\obj\Debug\netcoreapp3.1\MNDS.AssemblyInfoInputs.cache
+D:\MNDS\MNDS\obj\Debug\netcoreapp3.1\MNDS.AssemblyInfo.cs
+D:\MNDS\MNDS\obj\Debug\netcoreapp3.1\MNDS.csproj.CoreCompileInputs.cache
+D:\MNDS\MNDS\obj\Debug\netcoreapp3.1\MNDS.dll
+D:\MNDS\MNDS\obj\Debug\netcoreapp3.1\MNDS.pdb
+D:\MNDS\MNDS\obj\Debug\netcoreapp3.1\MNDS.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1s75ofk11Elo67+px9LCFxZQ7gdgCKgijbI6CW//tIFUhFhHAO4gkgQJoY2GcotAjoqgcb4eHBhgzwSxKwCe0g==",
+  "success": true,
+  "projectFilePath": "D:\\MNDS_lab1\\MNDS_lab1\\MNDS_lab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
